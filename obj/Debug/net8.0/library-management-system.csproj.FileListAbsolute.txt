@@ -1,0 +1,15 @@
+C:\github\projects\library-management-system\bin\Debug\net8.0\library-management-system.exe
+C:\github\projects\library-management-system\bin\Debug\net8.0\library-management-system.deps.json
+C:\github\projects\library-management-system\bin\Debug\net8.0\library-management-system.runtimeconfig.json
+C:\github\projects\library-management-system\bin\Debug\net8.0\library-management-system.dll
+C:\github\projects\library-management-system\bin\Debug\net8.0\library-management-system.pdb
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.AssemblyInfoInputs.cache
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.AssemblyInfo.cs
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.csproj.CoreCompileInputs.cache
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.sourcelink.json
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.dll
+C:\github\projects\library-management-system\obj\Debug\net8.0\refint\library-management-system.dll
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.pdb
+C:\github\projects\library-management-system\obj\Debug\net8.0\library-management-system.genruntimeconfig.cache
+C:\github\projects\library-management-system\obj\Debug\net8.0\ref\library-management-system.dll
